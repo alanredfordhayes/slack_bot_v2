@@ -4,12 +4,12 @@ BAR
 
 ## GIT IGNORE
 
-/Docker/Jenkins/jenkins-data
-/Docker/Jenkins/jenkins-docker-certs
+/Containers/Jenkins/jenkins-data
+/Containers/Jenkins/jenkins-docker-certs
 
 ## FOLDERS
 
-### DOCKER
+### Containers
 
 Local containers used to assist in this project.
 
